@@ -1,2 +1,2 @@
 # Viktor-Gondyuk-1
-2d project
+2d project: Travel agency
